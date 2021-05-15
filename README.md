@@ -1,2 +1,2 @@
-# info
-information about project PolkaPlay
+# Polka Play
+information & assets about project PolkaPlay
